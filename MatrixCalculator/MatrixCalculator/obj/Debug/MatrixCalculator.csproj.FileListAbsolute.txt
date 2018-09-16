@@ -1,0 +1,7 @@
+D:\LyoV\MatrixCalculator\MatrixCalculator\bin\Debug\MatrixCalculator.exe.config
+D:\LyoV\MatrixCalculator\MatrixCalculator\bin\Debug\MatrixCalculator.exe
+D:\LyoV\MatrixCalculator\MatrixCalculator\bin\Debug\MatrixCalculator.pdb
+D:\LyoV\MatrixCalculator\MatrixCalculator\obj\Debug\MatrixCalculator.csprojAssemblyReference.cache
+D:\LyoV\MatrixCalculator\MatrixCalculator\obj\Debug\MatrixCalculator.csproj.CoreCompileInputs.cache
+D:\LyoV\MatrixCalculator\MatrixCalculator\obj\Debug\MatrixCalculator.exe
+D:\LyoV\MatrixCalculator\MatrixCalculator\obj\Debug\MatrixCalculator.pdb
