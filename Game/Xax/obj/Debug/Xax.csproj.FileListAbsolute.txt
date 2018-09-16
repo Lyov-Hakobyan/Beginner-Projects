@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\LyoV\BootCamp\Xax\Xax\obj\Debug\Xax.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\LyoV\BootCamp\Xax\Xax\obj\Debug\Xax.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\LyoV\BootCamp\Xax\Xax\bin\Debug\Xax.exe.config
+C:\Users\User\Desktop\LyoV\BootCamp\Xax\Xax\bin\Debug\Xax.exe
+C:\Users\User\Desktop\LyoV\BootCamp\Xax\Xax\bin\Debug\Xax.pdb
+C:\Users\User\Desktop\LyoV\BootCamp\Xax\Xax\obj\Debug\Xax.exe
+C:\Users\User\Desktop\LyoV\BootCamp\Xax\Xax\obj\Debug\Xax.pdb
